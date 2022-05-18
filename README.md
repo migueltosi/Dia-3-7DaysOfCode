@@ -5,4 +5,5 @@ Dessa vez, deviamos fazer uma espécie de jogo, envolvendo escolhas e caminhos a
 
 O meu resultado ficou assim:
 
-![Video_220518053037](https://user-images.githubusercontent.com/105549646/168996580-8fad895c-10af-4f72-84c5-a74970f943ff.gif)
+![Video_220518053819](https://user-images.githubusercontent.com/105549646/168996872-0de21c50-2da8-45f3-9e1d-bfdfb52b3485.gif)
+
